@@ -1,0 +1,6 @@
+D:\Programming\C#\DBECommerce_Project\bin\Debug\DBECommerce_Project.dll
+D:\Programming\C#\DBECommerce_Project\bin\Debug\DBECommerce_Project.pdb
+D:\Programming\C#\DBECommerce_Project\obj\Debug\DataAccessLayer_Project.csproj.AssemblyReference.cache
+D:\Programming\C#\DBECommerce_Project\obj\Debug\DataAccessLayer_Project.csproj.CoreCompileInputs.cache
+D:\Programming\C#\DBECommerce_Project\obj\Debug\DBECommerce_Project.dll
+D:\Programming\C#\DBECommerce_Project\obj\Debug\DBECommerce_Project.pdb
